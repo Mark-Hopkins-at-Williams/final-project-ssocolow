@@ -1,10 +1,15 @@
 # CSCI 381 Final Project
 
 Group members:
-- please list your
-- group members
-- here!
+- Milo Chang
+- Jamie Tang
+- Simon Socolow
 
-Also, add any files to this repository that you would need as part of your final project submission.
+# Autoencoder-walks
+For our project, we made a demo that lets you walk around the latent space of an autoencoder trained on MNIST.  
+For example, you can see what the model thinks is in between an 8 and a 9:  ![demo pic](https://raw.githubusercontent.com/ssocolow/autoencoder-walks/main/demo.png)  
+Code and instructions for this visualization can be found here: https://github.com/ssocolow/autoencoder-walks
 
-Finally, put any special instructions in this README about how to use your code/notebook.
+
+# Colab Notebook
+Check out [this notebook](https://colab.research.google.com/drive/1d6SCKH-AVXe5JO0dLGqVVMnzxSvtHRE1?usp=sharing) to learn more about Autoencoders and a hands-on denoising application!
