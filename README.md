@@ -12,4 +12,4 @@ Code and instructions for this visualization can be found here: https://github.c
 
 
 # Colab Notebook
-Check out [this notebook]([https://colab.research.google.com/drive/1d6SCKH-AVXe5JO0dLGqVVMnzxSvtHRE1?usp=sharing](https://colab.research.google.com/drive/1NO2SWRJuDORHOaEoKRQSfw_ZRa-XtuG8?usp=sharing)) to learn more about Autoencoders and a hands-on denoising application!
+Check out [this notebook](https://colab.research.google.com/drive/1NO2SWRJuDORHOaEoKRQSfw_ZRa-XtuG8?usp=sharing) to learn more about Autoencoders and a hands-on denoising application!
